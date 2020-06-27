@@ -22,7 +22,7 @@
     <!--</bean>-->
     <!--<bean id="tyre" class="com.arnav.conveyence.Tyre"></bean>-->
 
-    <!--second way to create bean - Annotation way-->
+
     <context:component-scan base-package="com.arnav.conveyence"></context:component-scan>
 
 </beans>

@@ -22,8 +22,8 @@ package: com.arnav.demo.web
 when downloading <dependency>hibernate</dependency>, it downloads for the first time from remote repository (repository of hibernate) then stores in a local repository. So for first time, internet is required. Local repository will be your users folder.
 
 3 ways to add dependency:
-1) XML configuration (<bean id="xyz" class="com.arnav..">)
-2) annotation configuration (@Component)
+1) XML configuration (<bean id="xyz" class="com.arnav..">) - ClassPathXmlApplicationContext("spring.xml")
+2) annotation configuration  - AnnotationConfigApplicationContext(AppConfig.class)
 3) Java configuration
 
 @Autowired can be applied on properties, setter methods and constructors.

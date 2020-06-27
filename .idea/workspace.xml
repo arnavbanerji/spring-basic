@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81a5894c-6d0d-47e5-a9d6-7f775613d5cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/user.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/arnav/conveyence/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/arnav/conveyence/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/springbasic.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/arnav/conveyence/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/arnav/conveyence/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/arnav/conveyence/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/arnav/conveyence/Bike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/arnav/conveyence/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/arnav/conveyence/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,48 +19,103 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Vehicle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/conveyence/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="28" column="47" lean-forward="true" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+            <state relative-caret-position="-102">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Tyre.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="131">
+              <caret line="26" column="75" lean-forward="true" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Car.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/mobile/Samsung.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="119">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/mobile/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="38" column="15" lean-forward="true" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/mobile/AppConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/mobile/MediaTek.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              <folding>
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE.jar!/org/springframework/context/annotation/ComponentScan.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/mobile/Snapdragon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="124" selection-start-line="5" selection-start-column="124" selection-end-line="5" selection-end-column="124" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,25 +125,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Bike.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -109,6 +135,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -120,11 +147,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Bike.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/arnav/conveyence/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Tyre.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arnav/conveyence/App.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arnav/Mobile/MobileProcessor.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arnav/Mobile/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arnav/Mobile/Samsung.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arnav/Mobile/Snapdragon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arnav/Mobile/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arnav/mobile/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arnav/mobile/MediaTek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arnav/mobile/Snapdragon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arnav/mobile/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arnav/mobile/Samsung.java" />
       </list>
     </option>
   </component>
@@ -146,7 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,17 +240,28 @@
               <item name="spring-basic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="arnav" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592947896486" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593281724397" />
     <property name="last_opened_file_path" value="F:/Git Projects/Moody's_bitbucket" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
@@ -230,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App (1)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.arnav.conveyence.App" />
       <module name="spring-basic" />
@@ -244,8 +291,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arnav.mobile.App" />
+      <module name="spring-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arnav.mobile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -266,7 +327,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,7 +335,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -298,27 +359,6 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Bike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/conveyence/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="28" column="47" lean-forward="true" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -328,29 +368,131 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Tyre.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="153">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="187">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/conveyence/Bike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/mobile/MobileProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="153">
+          <caret line="25" column="81" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="38" column="15" lean-forward="true" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="26" column="75" lean-forward="true" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/conveyence/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE.jar!/org/springframework/context/annotation/ComponentScan.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/mobile/MediaTek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/mobile/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/mobile/Snapdragon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="124" selection-start-line="5" selection-start-column="124" selection-end-line="5" selection-end-column="124" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/mobile/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arnav/mobile/Samsung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
